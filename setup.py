@@ -10,7 +10,7 @@ setup(
     name='bcal',
     license="MIT",
     description='bcal is a python package for basic calculations.',
-    version='v0.0.3',
+    version='v0.1.2',
     long_description=README,
     packages=find_packages(),
     python_requires=">=3.6",

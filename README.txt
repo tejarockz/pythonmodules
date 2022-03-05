@@ -1,1 +1,1 @@
-This is a basic calculator for performing arithmetic operations.
+This is a module for calculating basic arithmetic operations and some mathematic operations.
